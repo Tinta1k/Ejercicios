@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Arreglos;
 
 namespace Arreglos
 {
@@ -10,7 +11,13 @@ namespace Arreglos
     {
         static void Main(string[] args)
         {
-            //Comentario
+            Arreglos llenar = new Arreglos();
+            int[] arreglo = llenar();
+            foreach (int num in arreglo)
+            {
+                Console.WriteLine(num);
+            }
         }
+    }
     }
 }

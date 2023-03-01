@@ -1,0 +1,2 @@
+C:\Users\juanl\Music\Ejercicios\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+C:\Users\juanl\Music\Ejercicios\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
