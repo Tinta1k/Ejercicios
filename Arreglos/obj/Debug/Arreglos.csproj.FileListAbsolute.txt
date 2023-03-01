@@ -1,0 +1,8 @@
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\obj\Debug\Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\alejo\OneDrive\Escritorio\Repositorio\Base\Arreglos\obj\Debug\Arreglos.pdb
