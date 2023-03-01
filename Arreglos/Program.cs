@@ -8,9 +8,21 @@ namespace Arreglos
 {
     class Program
     {
+
+        
         static void Main(string[] args)
         {
-            //Comentario
+            Arreglos pepe = new Arreglos();
+
+            pepe.sumadenotas();
+            
+            
+
+
+
+
+
+
         }
     }
 }
