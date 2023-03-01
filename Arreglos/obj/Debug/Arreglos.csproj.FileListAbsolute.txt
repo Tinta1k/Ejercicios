@@ -1,0 +1,8 @@
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\obj\Debug\Arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\marti\Source\Repos\Tinta1k\Ejercicios\Arreglos\obj\Debug\Arreglos.pdb
