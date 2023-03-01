@@ -8,32 +8,13 @@ namespace Arreglos
 {
     class Program
     {
-        public void ejercicio4()
-        {
-            int num;
-            int[] vectormen = new int[10];
-            Console.WriteLine("Ingrese los respectivos 10 números");
-            for (int i = 0; i < 10; i++)
-            {
-                num = int.Parse(Console.ReadLine());
-                vectormen[i] = num;
-            }
-            Array.Sort(vectormen);
-            
-            foreach (int numero in vectormen)
-            {
-                Console.Write(numero + " ");
-            }
-            Console.WriteLine(" ");
-            Console.WriteLine("Presiona cualquier tecla para salir...");
-            Console.ReadLine();
-        } 
+       
 
         static void Main(string[] args)
         {
             //Comentario
-            Program a =new Program();
-            a.ejercicio4();
+            Arreglos arr = new Arreglos();
+            arr.ejercicio4();
         }
     }
 }
